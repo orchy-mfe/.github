@@ -10,4 +10,6 @@ Each UI and each Micro Frontend is managed using the Client Side Composition var
 
 Thanks to the out of the box support to Server Driven UI, `orchy` also supports both **horizontal** and **vertical** split of the view.
 
+## Useful links:
+
 [![Documentation](https://img.shields.io/badge/Documentation-%2326A570.svg?style=for-the-badge&logo=readthedocs&logoColor=white)](https://orchy-mfe.github.io/)
